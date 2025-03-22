@@ -11,13 +11,11 @@ Fork on GitHub7111
 
 <p align="left"> <a href="https://twitter.com/bloodycop7" target="blank"><img src="https://img.shields.io/twitter/follow/bloodycop7?logo=twitter&style=for-the-badge" alt="bloodycop7" /></a> </p>
 
-- 🔭 I’m currently working on [Minerva Servers](https://minerva-servers.com/)
+- 🔭 I’m currently working on [Half-Life 2: Infinite Finality](https://www.moddb.com/mods/infinite-finality) and [Monolith : Zero](https://www.moddb.com/mods/monolith-zero)
 
 - 🌱 I’m currently learning **C++, C#, GLua**
 
-- 👨‍💻 All of my projects are available at [https://minerva-servers.com/portfolio/eon/](https://minerva-servers.com/portfolio/eon/)
-
-- 📫 How to reach me **minerva.servers.eon@gmail.com**
+- 📫 How to reach me **eon.bloodycop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
