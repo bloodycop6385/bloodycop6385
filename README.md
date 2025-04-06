@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bloodycop7" target="blank"><img src="https://img.shields.io/twitter/follow/bloodycop7?logo=twitter&style=for-the-badge" alt="bloodycop7" /></a> </p>
 
-- 🔭 I’m currently working on [Half-Life 2: Infinite Finality](https://www.moddb.com/mods/infinite-finality) and [Monolith : Zero](https://www.moddb.com/mods/monolith-zero)
-
+- 🔭 I’m currently working on [Half-Life 2: Infinite Finality](https://www.moddb.com/mods/infinite-finality)
 - 🌱 I’m currently learning **C++, C#, GLua**
-
-- 📫 How to reach me **eon.bloodycop@gmail.com**
+- 📫 You can reach out to me **eon.bloodycop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
